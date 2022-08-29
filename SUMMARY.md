@@ -1,6 +1,6 @@
 # Table of contents
 
-* [learning-element-gitbook](README.md)
+* [📚 learning-element](README.md)
 
 ## 01.基础篇 <a href="#Chapter01_Essentials" id="Chapter01_Essentials"></a>
 
@@ -24,3 +24,5 @@
 ## 03.源码分析 <a href="#Chapter03_Source_Analysis" id="Chapter03_Source_Analysis"></a>
 
 * [3.1 组件概述](Chapter03\_Source\_Analysis/3.1-zu-jian-gai-shu.md)
+* [3.3 Backtop 回到顶部](Chapter03\_Source\_Analysis/3.3-backtop-hui-dao-ding-bu.md)
+* [Page 1](Chapter03\_Source\_Analysis/page-1.md)
