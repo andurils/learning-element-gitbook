@@ -1,11 +1,8 @@
 ---
-description: 《Element 2 源码分析》
-cover: >-
-  https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb2RlfGVufDB8fHx8MTY2MTgyMzgwNg&ixlib=rb-1.2.1&q=80
-coverY: -213.42281879194633
+description: 《element 2 源码分析》
 ---
 
-# 📚 learning-element
+# 📚 Learning Element
 
 <figure><img src=".gitbook/assets/learning-element-cover.jpg" alt=""><figcaption><p>封面</p></figcaption></figure>
 
